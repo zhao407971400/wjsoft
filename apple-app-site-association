@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "BN8R22N43P.com.wjsoft.HiScanner",
+                "paths": [
+                    "/launchapp/*"
+                ]
+            }
+        ]
+    }
+}
